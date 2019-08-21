@@ -46,34 +46,34 @@
 
 ### Linked Image
 
-* Google 이미지에 [https://www.google.com](https://www.google.com)을 연결
+* GitHub 이미지에 [https://github.com/logos](https://github.com/logos)을 연결
 
 ``` markdown
-[![Google 로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com/)
+[![GitHub 로고](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)](https://github.com/logos)
 ```
 
->[![Google 로고](https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png)](https://www.google.com/)
+>[![GitHub 로고](https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png)](https://github.com/logos)
 
 ### Reference
 
 ``` markdown
-![Google 로고][google-logo]
+![GitHub 로고][github-logo]
 
 ...
 
-[google-logo]: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+[GitHub-logo]: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
 ```
 
->![Google 로고][google-logo]
+>![Google 로고][github-logo]
 >
->[google-logo]: https://www.google.com/images/branding/googlelogo/1x/googlelogo_color_272x92dp.png
+>[github-logo]: https://github.githubassets.com/images/modules/logos_page/GitHub-Logo.png
 
 ``` markdown
-[google.com][google-url]
+[github.com][github-url]
 
 ...
 
-[google-url]: https://www.google.com/
+[github-url]: https://github.com/
 ```
 
 >[github.com][github-url]

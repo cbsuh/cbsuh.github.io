@@ -1,6 +1,10 @@
 # 시크릿 스페이스
 
-[![시크릿 스페이스 표지](http://image.kyobobook.co.kr/images/book/large/244/l9791187150244.jpg)](http://www.kyobobook.co.kr/product/detailViewKor.laf?ejkGb=KOR&mallGb=KOR&barcode=9791187150244&orderClick=LAG&Kc=)
+[![시크릿 스페이스 표지](https://image.aladin.co.kr/product/11388/37/cover500/k512531691_1.jpg)](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=113883797)
+
+> 교보문고에서 샀지만, 교보는 image link를 사용할 수 없어서 알라딘을 link :)
 
 무선 충전과 같이 우리 생활속에 있는 과학 기술을 설명해 주는 책.
 꼬맹이들이 보면 어떨까해서 샀는데, 글로 설명된 것이 많아서 고등학생은 되어야 읽을만 할 듯...
+
+2017년 9월 23일 교보문고에 주문, 읽기는 2019년 8월 25일. 한동안은 이런 책을 샀는지도 잊고 있었음.

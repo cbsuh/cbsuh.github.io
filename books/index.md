@@ -5,3 +5,5 @@
 * [시크릿 스페이스](secret_space.md)
 
 * [친절한 과학 그림책](thing_explainer.md). 랜들 먼로
+
+* [Build a Brand Like Trader Joe's](build_a_brand_like_trader_joes.md)

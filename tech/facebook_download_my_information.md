@@ -51,7 +51,13 @@ AC01 = 1010 1100 0000 0001
 ```
 로 적힘.
 
+### 의견
+
+Facebook의 encoding은 bug로 봐야함. JSON spec에서 \uXXXX에서 XXXX를 `4 hexadecimal digits`라고 정의했고, `Basic Multilingual Plane (U+0000 through U+FFFF)`에 해당되는 경우에 하나의 \uXXXX로 표시될 수 있다고 설명한 것으로 보아, \u00XX는 XX 1 byte가 아니라 00 XX의 2 byte로 변환되는게 맞음.
+따라서, fix_fbjson같은 프로그램이 필요함.
+
 ### 참고
 
 - [Wikipedia: UTF-8](https://en.wikipedia.org/wiki/UTF-8)
 - [Unicode: Hangul Syllables / Range: AC00–D7AF](https://www.unicode.org/charts/PDF/UAC00.pdf)
+- [The JSON Data Interchange Syntax](http://www.ecma-international.org/publications/files/ECMA-ST/ECMA-404.pdf)

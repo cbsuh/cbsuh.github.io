@@ -1,6 +1,7 @@
 # cbsuh의 낙서장
 
 * [Books](/books/)
+* [영화 / 드라마](/movies/)
 * [기술 관련](/tech/)
 
 ## 시험중

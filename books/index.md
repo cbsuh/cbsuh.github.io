@@ -11,3 +11,5 @@
 * [Build a Brand Like Trader Joe's](build_a_brand_like_trader_joes.md)
 
 * [아프리카 대륙의 일대기](africa_a_biography_of_the_continent.md)
+
+* [핀란드를 게임 강국으로 만든 게임 기획자들](game_designer-confessions.md)

@@ -6,3 +6,4 @@
 * [NOVA: Black Hole Apocalypse](nova-black_hole_apocalypse.md)
 * [Kursk](kursk.md)
 * [Upgrade (2018)](upgrade.md)
+* [Fastest Car / 패스트 카: 슈퍼카를 이길 차](fastest_car.md)

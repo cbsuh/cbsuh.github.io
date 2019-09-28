@@ -177,3 +177,31 @@ real    18m57.416s
 user    14m4.063s
 sys     19m17.172s
 ```
+
+## Haskell
+
+[GitHub: The Glasgow Haskell Compiler](https://github.com/ghc/ghc)
+
+1. Source code 가져오기
+
+    ``` bash
+    git clone --recursive git@gitlab.haskell.org:ghc/ghc.git
+    ```
+
+    submodule이 많아서 시간이 오래 걸림 :)
+
+1. ghc 설치
+
+    ``` bash
+    sudo apt install ghc
+    ```
+
+    > ghc가 있어야 build 가능
+
+1. Building
+
+    ``` bash
+    ./boot
+    ./configure
+    make -j12
+    ```

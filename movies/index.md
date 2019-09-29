@@ -7,3 +7,4 @@
 * [Kursk](kursk.md)
 * [Upgrade (2018)](upgrade.md)
 * [Fastest Car / 패스트 카: 슈퍼카를 이길 차](fastest_car.md)
+* [익스플레인: 세계를 해설하다 - 시즌2 / 믿음의 함정](explained_s2-cults.md)

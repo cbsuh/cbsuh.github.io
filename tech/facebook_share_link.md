@@ -4,7 +4,7 @@ cbsuh.github.io의 page를 facebook으로 공유할 때, image가 다른 site �
 
 ## 이미지 선정 기준
 
-* [Open Graph](https://ogp.me/)로 설정된 이미지
+* [Open Graph][og_protocol]로 설정된 이미지
 
 또는
 
@@ -19,8 +19,20 @@ cbsuh.github.io의 page를 facebook으로 공유할 때, image가 다른 site �
 
 내 경우에는 알라딘의 책 이미지를 사용했으므로 500 x 707 이었음. 따라서, 위아래가 잘린 상태로 좌우로 길쭉하게 보여짐.
 
+## Tip
+
+* Netflix
+  * [Facebook: 공유 디버거][fbdev_공유디버거]에 Netflix URL을 넣으면 image URL을 알 수 있음.
+  * 이 URL을 내 page의 처음에 추가하면 facebook에 해당 page를 공유할 때 이 이미지가 나옴.
+
+
 ## 참고
 
-* [facebook for developers: 웹 마스터용 공유 가이드](https://developers.facebook.com/docs/sharing/webmasters)
-* [facebook for developers: 공유 디버거](https://developers.facebook.com/tools/debug/sharing/)
-* [facebook for developers: 링크 공유 FAQ](https://developers.facebook.com/docs/sharing/webmasters/faq)
+* [facebook for developers: 웹 마스터용 공유 가이드][fbdev_공유가이드]
+* [facebook for developers: 공유 디버거][fbdev_공유디버거]
+* [facebook for developers: 링크 공유 FAQ][fbdev_링크공유FAQ]
+
+[og_protocol]: <https://ogp.me/>
+[fbdev_공유가이드]: <https://developers.facebook.com/docs/sharing/webmasters>
+[fbdev_공유디버거]: <https://developers.facebook.com/tools/debug/sharing/>
+[fbdev_링크공유FAQ]: <https://developers.facebook.com/docs/sharing/webmasters/faq>

@@ -10,3 +10,4 @@
 * [익스플레인: 세계를 해설하다 - 시즌2 / 믿음의 함정](explained_s2-cults.md)
 * [거대한 해킹 (원제: The Great Hack)](great_hack.md)
 * [모털 엔진](mortal_engines.md)
+* [미니언즈](minions.md)

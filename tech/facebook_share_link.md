@@ -24,7 +24,9 @@ cbsuh.github.io의 page를 facebook으로 공유할 때, image가 다른 site �
 * Netflix
   * [Facebook: 공유 디버거][fbdev_공유디버거]에 Netflix URL을 넣으면 image URL을 알 수 있음.
   * 이 URL을 내 page의 처음에 추가하면 facebook에 해당 page를 공유할 때 이 이미지가 나옴.
-
+* Google Movie의 200 x 300 image를 사용하는 경우
+  * 위아래가 잘린 상태로 작은 정사각형으로 나온다.
+  * Google image이므로 URL을 고쳐서 200 x 200으로 변경하면, aspect ratio를 유지하면서 크기를 줄여준다. 하지만, facebook에서는 이 경우에도 위아래를 자른 작은 정사각형으로 나온다. 
 
 ## 참고
 

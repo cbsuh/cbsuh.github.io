@@ -50,15 +50,19 @@ parser가 AST를 생성. 중간 단계로 CST를 생성할 수도 있음.
 
 - analysis phase / front-end
   - lexical analysis
-    - scanner: source text → lexemes(?)
+    - scanner: source text → lexeme
     - lexer: lexemes → tokens
   - syntax analysis
     - parser: tokens → (parse tree) → AST
+
+- 내가 이해하기로는 token이 class이고, lexeme이 instance임.
 
 ## 참고
 
 - [Medium: Leveling Up One’s Parsing Game With ASTs](https://medium.com/basecs/leveling-up-ones-parsing-game-with-asts-d7a6fc2400ff)
 - [Esprima](https://esprima.org/) : ECMAScript parsing infrastructure for multipurpose analysis
+- [stack overflow: What is the difference between a token and a lexeme?
+](https://stackoverflow.com/questions/14954721/what-is-the-difference-between-a-token-and-a-lexeme)
 
 ### 기타
 

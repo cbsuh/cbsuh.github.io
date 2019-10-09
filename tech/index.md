@@ -6,3 +6,11 @@
 - [LAN선 꽂이 교체](network_wall_face_plate.md)
 
 - [이런저런 언어의 Compiler Build 해보기](build_compilers.md)
+- [Abstract Syntax Tree](abstract_syntax_tree.md)
+
+## 잡생각
+
+- functional data structure는 무의미한 듯
+
+  문제를 해결하는 방식 자체가 변해야 하는 것이지, 기존의 해결 방식을 functional language에서도 쓰려고 하는 것은 좋은 방법이 아님.
+  > 예: data는 function의 한 순간(한 지점)의 snapshot

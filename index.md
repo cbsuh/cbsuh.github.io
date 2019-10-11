@@ -17,3 +17,20 @@
 * immutable language / OS
   * functional language에 immutable한 object를 추가해보자.
   * 이런 개념의 OS는 가능할까?
+
+## 가 본 맛집
+
+### 닭갈비
+
+* 성수동 [홍천숯닭](https://www.facebook.com/babosimon/posts/10211373976865011)
+  * 식구들과 가봤는데, 맛있었음.
+
+### 평양냉면
+
+* 삼성동 경평면옥
+  * 괜찮음
+* 교대 서관면옥
+  * 내 입맛에는 간이 세다
+* 역삼 평양옥
+  * 국물이 좀...
+  * 하지만, 이 근처에 이집밖에 없어서.

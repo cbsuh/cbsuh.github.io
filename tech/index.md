@@ -10,6 +10,8 @@
 
 - [cbsuh.github.io setup](setup_cbsuh_github_io.md)
 
+- [quic protocol](quic_protocol.md)
+
 ## 잡생각
 
 - functional data structure는 무의미한 듯

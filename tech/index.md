@@ -8,6 +8,8 @@
 - [이런저런 언어의 Compiler Build 해보기](build_compilers.md)
 - [Abstract Syntax Tree](abstract_syntax_tree.md)
 
+- [GitHub Pages를 내 컴퓨터에서 확인하기](setup_jekyll_for_github_pages.md)
+
 ## 잡생각
 
 - functional data structure는 무의미한 듯

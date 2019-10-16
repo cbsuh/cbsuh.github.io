@@ -1,4 +1,11 @@
-# cbsuh의 낙서장
+---
+# Feel free to add content and custom Front Matter to this file.
+# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
+
+layout: home
+title: CBSUH의 낙서장
+lang: ko
+---
 
 * [Books](/books/)
 * [영화 / 드라마](/movies/)

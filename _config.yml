@@ -48,3 +48,8 @@ plugins:
 #   - vendor/cache/
 #   - vendor/gems/
 #   - vendor/ruby/
+
+header_pages:
+  - books/index.md
+  - movies/index.md
+  - tech/index.md

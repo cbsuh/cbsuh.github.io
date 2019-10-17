@@ -8,7 +8,7 @@
 - [이런저런 언어의 Compiler Build 해보기](build_compilers.md)
 - [Abstract Syntax Tree](abstract_syntax_tree.md)
 
-- [cbsuh.github.io setup](setup_cbsuh_github_io.md)
+- [GitHub Pages를 내 컴퓨터에서 확인하기](setup_jekyll_for_github_pages.md)
 
 - [quic protocol](quic_protocol.md)
 

@@ -9,6 +9,7 @@ lang: ko
 
 * [Books](/books/)
 * [영화 / 드라마](/movies/)
+* [여행기](/trip/)
 * [기술 관련](/tech/)
 
 ## 시험중

@@ -166,6 +166,7 @@ bundle exec jekyll serve
 ```
 
 - `Auto-regeneration may not work on some Windows versions.`이라는 경고가 나오지만, `Auto-regeneration`도 잘 된다. `WSL` 덕분일까?
+  > 단, theme의 template file을 추가/삭제/변경은 `Auto-regenration`이 안될 수 있다.
 
 [github_pages]: https://pages.github.com/
 [github_pages_dependency_versions]: https://pages.github.com/versions/

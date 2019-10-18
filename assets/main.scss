@@ -3,3 +3,13 @@
 ---
 
 @import "minima";
+
+.sticky-header {
+  position: fixed;
+  width: 100%;
+  background-color: ivory;
+}
+
+.for-sticky-header {
+  margin-top: 40px; // Add a top margin to avoid content overlay
+}

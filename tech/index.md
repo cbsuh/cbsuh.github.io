@@ -5,17 +5,24 @@ permalink: /tech/
 lang: ko
 ---
 
+## Facebook
+
 - [Facebook: 내 정보 다운로드](facebook_download_my_information.md)
 - [Facebook: 링크 공유](facebook_share_link.md)
 
-- [LAN선 꽂이 교체](network_wall_face_plate.md)
-
-- [이런저런 언어의 Compiler Build 해보기](build_compilers.md)
-- [Abstract Syntax Tree](abstract_syntax_tree.md)
+## GitHub, Jekyll
 
 - [GitHub Pages를 내 컴퓨터에서 확인하기](setup_jekyll_for_github_pages.md)
 
+## 프로그래밍
+
+- [이런저런 언어의 Compiler Build 해보기](build_compilers.md)
+- [Abstract Syntax Tree](abstract_syntax_tree.md)
 - [quic protocol](quic_protocol.md)
+
+## 기타
+
+- [LAN선 꽂이 교체](network_wall_face_plate.md)
 
 ## 잡생각
 

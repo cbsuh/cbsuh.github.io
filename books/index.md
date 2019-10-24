@@ -1,4 +1,9 @@
-# Books
+---
+layout: page
+title: 책
+permalink: /books/
+lang: ko
+---
 
 * [Radical Candor](radical_candor.md)
 

@@ -7,7 +7,7 @@ title: CBSUH의 낙서장
 lang: ko
 ---
 
-* [Books](/books/)
+* [책](/books/)
 * [영화 / 드라마](/movies/)
 * [여행기](/trip/)
 * [기술 관련](/tech/)

@@ -15,5 +15,6 @@
 * [핀란드를 게임 강국으로 만든 게임 기획자들](game_designer-confessions.md)
 
 * [삼체 / 三体 / The Three-Body Problem](3_body_problem.md)
+* [루쉰 소설선 / 아Q정전](the_true_story_of_ah_q.md)
 
 * [정광근. (2019). 나의 하버드 수학 시간.](my_harvard_math_class.html)

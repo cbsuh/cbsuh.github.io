@@ -10,10 +10,12 @@ lang: ko
 - [Facebook: 내 정보 다운로드](facebook_download_my_information.md)
 - [Facebook: 링크 공유](facebook_share_link.md)
 
-## GitHub, Jekyll
+## GitHub, Jekyll, Markdown
 
 - [GitHub Pages를 내 컴퓨터에서 확인하기](setup_jekyll_for_github_pages.md)
 - [GitHub Pages에 수식 넣기 - MathJax](mathjax_with_jekyll.md)
+- JavaScript의 code block - "```" block - 에서 지원되는 언어
+  - [languages.yml](https://github.com/github/linguist/blob/master/lib/linguist/languages.yml)
 
 ## 프로그래밍
 

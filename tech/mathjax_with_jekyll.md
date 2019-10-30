@@ -6,6 +6,8 @@ lang: ko
 mathjax: true
 ---
 
+## 알림: 이 페이지는 [/tech/mathjax-katex-markdown_math](/tech/mathjax-katex-markdown_math)로 통합되었음
+
 [MathJax][mathjax_site]가 TeX, LaTex, MathML, AsciiMath를 모두 web browser로 볼 수 있게 해준다.
 
 ## 설치
@@ -16,12 +18,14 @@ mathjax: true
 
 ## Test
 
-In N-dimensional simplex noise, the squared kernel summation radius $r^2$ is $\frac 1 2$
+In N-dimensional simplex noise, the squared kernel summation radius $$r^2$$ is $\frac 1 2$
 for all values of N. This is because the edge length of the N-simplex $s = \sqrt {\frac {N} {N + 1}}$
 divides out of the N-simplex height $h = s \sqrt {\frac {N + 1} {2N}}$.
 The kerel summation radius $r$ is equal to the N-simplex height $h$.
 
-$$ r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}} $$
+$$
+r = h = \sqrt{\frac {1} {2}} = \sqrt{\frac {N} {N+1}} \sqrt{\frac {N+1} {2N}}
+$$
 
 ## 참고
 

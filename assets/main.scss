@@ -7,9 +7,16 @@
 .sticky-header {
   position: fixed;
   width: 100%;
-  background-color: ivory;
+  background-color: black;
 }
 
 .for-sticky-header {
   margin-top: 60px; // Add a top margin to avoid content overlay
+}
+
+.always_white_font {
+  &,
+  &:visited {
+    color: white;
+  }
 }

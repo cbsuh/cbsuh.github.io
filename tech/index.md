@@ -23,9 +23,20 @@ lang: ko
 - [Abstract Syntax Tree](abstract_syntax_tree.md)
 - [quic protocol](quic_protocol.md)
 
+## 우쥔. 수학의 아름다움.
+
+- [자연어 처리](/tech/beauty_of_mathematics/natural_language_processing)
+- [검색 엔진](/tech/beauty_of_mathematics/search_engine)
+
 ## 기타
 
 - [LAN선 꽂이 교체](network_wall_face_plate.md)
+
+## 나중에
+
+- AT&T FST : AT&T의 유한상태기계 library
+- [dynamic programming](https://en.wikipedia.org/wiki/Dynamic_programming)
+- [system theory](https://en.wikipedia.org/wiki/Systems_theory)
 
 ## 잡생각
 

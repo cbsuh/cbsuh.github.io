@@ -23,3 +23,4 @@ lang: ko
 * [루쉰 소설선 / 아Q정전](the_true_story_of_ah_q.md)
 
 * [정광근. (2019). 나의 하버드 수학 시간.](my_harvard_math_class.html)
+* [우쥔. 수학의 아름다움.](beauty_of_mathematics.md)

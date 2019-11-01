@@ -192,13 +192,13 @@ math_engine은 [mathJax][mathjax]와 [KaTeX][katex]를 선택할 수 있도록 �
 
 1. `_layouts/default.html` 수정
 
-```html
-<html>
-...
-</html>
+    ```html
+    <html>
+    ...
+    </html>
 
-{%- include katex_tail.html -%}
-```
+    {%- include katex_tail.html -%}
+    ```
 
 1. 수식을 쓸 page의 front matter 설정
 

@@ -14,77 +14,37 @@ auto_ids: true
 
 책을 읽다 보니, 자꾸 공부하듯이 필기를 하게 된다. 내가 이해할 수 있는 수준으로 책이 쓰여 있어서 그런가보다.
 
-책은 xxx 부분으로 나뉘어 있다. 각 부분은 해당 분야의 거장에 대한 소개로 끝난다.
+AI나 빅데이터가 어떤 원리로 동작하는 지 이해하기 쉽게 설명하고 있다. 하지만, 고등학교 수학은 기억하고 있어야 편하게 읽을 수 있다 :)
 
-* 컴퓨터의 자연어 처리
-  * 통계언어 모델
-  * 형태소 분석
-  * hidden Markov model
+마지막으로 책에서 얻은 가장 큰 교훈은 다음과 같다.
 
+> 엔지니어가 잘 모르는 분야를 직관에만 의존해서 해결하려는 것은 나쁜 버릇 - 데이타가 필요
 
-정보를 언어로 encoding하는 것과 채널에 encoding하는 통신의 유사성을 파악하고, 통신에서 사용되던 hidden Markov model을 자연어 처리에 도입한 젤리넥의 통찰력은 놀랍다. 학교에서 hidden Markov model을 배울땐, 어디에 쓸 지 몰랐다는 저자의 말도 와닿는다.
+### 책에서 정리한 내용들
 
-정보가 있어야 더 나은 추정이 가능하다. 정보없이 어떤 공식등에 의존하는 것은 거짓말이다.
-
-
-
-문제를 해결할 때, 데이타를 수집하고, 데이타를 기반으로 모델을 만든다.
-데이타가 없이 직관에 의존하면 안됨.
-
-1. 데이타 수집
-1. 모델 만들기
-1. 모델 optimize
-
-
-
-꼭 알아야할 것: 조건부 확률 계산 - 베이즈 공식?
-
-엔지니어가 잘 모르는 분야를 직관에만 의존해서 해결하려는 것은 나쁜 버릇 - 데이타가 필요
-
-
-
-* [코사인 법칙과 뉴스의 분류](/beauty_of_mathematics/코사인_법칙과_뉴스의_분류)
-* [행렬 연산과 텍스트 처리의 두 가지 분류 문제](/beauty_of_mathematics/행렬_연산과_텍스트_처리의_두_가지_분류_문제)
-* [정보 지문과 응용](/beauty_of_mathematics/정보_지문과_응용)
-* [중국 드라마 `암산`에서 떠올린 암호학의 수학 원리](/beauty_of_mathematics/중국_드라마_암산에서_떠올린_암호학의_수학_원리)
-* [반짝인다고 다 금은 아니다](/beauty_of_mathematics/반짝인다고_다_금은_아니다)
+* [자연어 처리](beauty_of_mathematics/natural_language_processing)
+* [검색엔진](beauty_of_mathematics/natural_language_processing)
+* [코사인 법칙과 뉴스의 분류](beauty_of_mathematics/코사인_법칙과_뉴스의_분류)
+* [행렬 연산과 텍스트 처리의 두 가지 분류 문제](beauty_of_mathematics/행렬_연산과_텍스트_처리의_두_가지_분류_문제)
+* [정보 지문과 응용](beauty_of_mathematics/정보_지문과_응용)
+* [중국 드라마 `암산`에서 떠올린 암호학의 수학 원리](beauty_of_mathematics/중국_드라마_암산에서_떠올린_암호학의_수학_원리)
+* [반짝인다고 다 금은 아니다](beauty_of_mathematics/반짝인다고_다_금은_아니다)
+* [수학 모델의 중요성](beauty_of_mathematics/수학_모델의_중요성)
+* [달걀을 한 바구니에 담지 말라](beauty_of_mathematics/달걀을_한_바구니에_담지_말라)
+* [언어 입력법의 수학 모델](beauty_of_mathematics/언어_입력법의_수학_모델)
+* [자연어 처리의 대부 마커스와 그의 수제자들](beauty_of_mathematics/자연어_처리의_대부_마커스와_그의_수제자들)
+* [블룸 필터의 원리](beauty_of_mathematics/블룸_필터의_원리)
+* [마르코프 연쇄의 확장 - 베이지안 네트워크](beauty_of_mathematics/베이지안_네트워크)
+* [조건부 무작위장 구문 분석 및 기타 확률 예측](beauty_of_mathematics/조건부_무작위장_구문_분석_및_기타_확률_예측)
+* [비터비와 비터비 알고리즘](beauty_of_mathematics/비터비와_비터비_알고리즘)
+* [신의 알고리즘 - 기댓값 최대화 알고리즘](beauty_of_mathematics/기댓값_최대화_알고리즘)
+* [로지스틱 회귀와 검색광고](beauty_of_mathematics/로지스틱_회귀와_검색광고)
+* [각개격파 알고리즘과 구글 클라우드 컴퓨팅의 기초](beauty_of_mathematics/각개격파_알고리즘과_구글_클라우드_컴퓨팅의_기초)
+* [구글 브레인과 인공신경망](beauty_of_mathematics/구글_브레인과_인공신경망)
+* [빅데이터의 위력 - 데이터의 중요성](beauty_of_mathematics/빅데이터의_위력)
 
 ### 지은이 추천 책/다큐
 
 * 조지 가모프. [1 2 3 그리고 무한](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=16407165).
 * 스티븐 호킹. [시간의 역사](https://www.aladin.co.kr/shop/wproduct.aspx?ItemId=636131).
 * [Through the Wormhole](https://en.wikipedia.org/wiki/Through_the_Wormhole)
-
-
-
-
-#### 컴퓨터의 자연어 처리
-
-언어는 정보를 encoding/decoding한다.
-
-$$ 정보 \xrightarrow{encoding} 언어 \xrightarrow{decoding} 정보 $$
-
-이는 통신의 과정과 유사하다. 통신의 이론을 가져온 통계언어 모델(Statistical Language Model, SLM)의 결과가 좋은 이유다.
-
-과거에는 컴퓨터로 자연어를 처리할 때, 문법에 기반한 구문 분석을 사용했다. 하지만, 자연어는 문맥에 따라 뜻이 달라지는 경우가 많다. 많은 문법 규칙을 추가해도, 구문 분석의 결과는 좋지 않았다.
-
-통계언어 모델(Statistical Language Model, SLM)에서는 한 문장안의 연이은 단어들이, 실제 문장에서는 얼마나 등장했는지로, 이 문장이 맞을 확률을 계산한다.
-
-$$
-\begin{aligned}
-P(S) &= P(w_1, w_2, \cdots, w_n) \\
-     &= P(w_1) \cdot P(w_2 | w_1) \cdot P(w_3 | w_1, w_2) \cdots P(w_n | w_1, w_2, ... w_{n-1})
-\end{aligned}
-$$
-
-만약, 앞의 한 단어와 같이 나오는 경우만 따지는 bi-gram model이면, (앞의 N 단어까지 고려하면, [N-gram Model](n-gram-model))
-
-$$
-\begin{aligned}
-P(S) &= P(w_1) \cdot P(w_2 | w_1) \cdot P(w_3 | w_2) \cdots P(w_n | w_{n-1}) \\
-     &\approx \frac{\#(w_1)}{\#} \cdot \frac{\#(w_1, w_2)}{\#(w_1)} \cdot \frac{\#(w_2, w_3)}{\#(w_2)} \cdots  \frac{\#(w_{n-1}, w_n)}{\#(w_{n-1})}
-\end{aligned}
-$$
-
-가 되어서, 학습에 사용되는 문장들에서 단어들의 등장 회수를 세기만 하면, 계산할 수 있다. ([두 단어의 조건부 확률 근사](#두-단어의-조건부-확률-근사) 참고)
-

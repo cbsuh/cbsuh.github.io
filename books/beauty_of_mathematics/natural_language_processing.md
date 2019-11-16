@@ -1,7 +1,7 @@
 ---
 layout: page
 title: 자연어 처리
-permalink: /tech/beauty_of_mathematics/natural_language_processing.html
+permalink: /books/beauty_of_mathematics/natural_language_processing
 lang: ko
 katex: true
 ---

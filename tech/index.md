@@ -5,6 +5,11 @@ permalink: /tech/
 lang: ko
 ---
 
+## 논문
+
+- [Work-Stealing, Locality-Aware Actor Scheduling](https://cs.uwaterloo.ca/~mkarsten/papers/ipdps2018-preprint.pdf)
+  - Actor 모델을 적용할 때, 각 pattern이 NUMA에 어던 영향을 받는지 보여줌.
+
 ## Facebook
 
 - [Facebook: 내 정보 다운로드](facebook_download_my_information.md)

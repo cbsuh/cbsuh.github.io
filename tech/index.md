@@ -23,7 +23,7 @@ lang: ko
 - [Abstract Syntax Tree](abstract_syntax_tree.md)
 - [quic protocol](quic_protocol.md)
 
-## 우쥔. 수학의 아름다움.
+## 우쥔. 수학의 아름다움
 
 - [자연어 처리](/tech/beauty_of_mathematics/natural_language_processing)
 - [검색 엔진](/tech/beauty_of_mathematics/search_engine)
